@@ -6,4 +6,4 @@ i took a python and a java coding class so that means **im the bestest programme
 
 check out some of my repositories, thanks.
 
-[![Coah's GitHub stats](https://github-readme-stats.vercel.app/api?username=coah80)](https://github.com/anuraghazra/github-readme-stats)
+[![Coah's GitHub stats](https://github-readme-stats.vercel.app/api?username=coah80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
