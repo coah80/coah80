@@ -25,8 +25,8 @@ check out some of my repositories, thanks.
 ---
 
 ### 🔥 projects
-[**phonkedit**](https://github.com/coah80/phonkedit) → a minecraft mod that does those youtube shorts skull edits  
-[**cole.ong**](https://cole.ong) → my personal sandbox / cdn / identity hub  
+[**yoink**](https://github.com/coah80/yoink) → a free and open source media tools website, download, convert, compress, all in one.
+[**coah80**](https://coah80.com) → my personal sandbox / cdn / identity hub  
 
 ---
 
@@ -37,7 +37,7 @@ check out some of my repositories, thanks.
 ---
 
 ### 🔗 socials
-🌐 [cole.ong](https://cole.ong)  
-🎬 [youtube: coah](https://youtube.com/@coah)  
+🌐 [coah80.com](https://coah80.com)  
+🎬 [youtube: coah](https://youtube.com/@coah800)  
 🎮 [tiktok: @cole.vr](https://tiktok.com/@cole.vr)  
 ☕ [ko-fi](https://ko-fi.com/coah80)
