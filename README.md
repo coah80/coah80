@@ -29,7 +29,7 @@ check out some of my repositories, thanks.
 <a href="https://github.com/coah80/yoink">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=yoink&theme=radical" />
 </a>
-<a href="https://github.com/coah80/coah80.com">
+<a href="https://github.com/coah80/coleswebsite">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=coleswebsitem&theme=radical" />
 </a>
 
