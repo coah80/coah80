@@ -42,7 +42,7 @@ async function updateReadme() {
   const repos = await getTopRepos();
   const table = generateTable(repos);
   
-  const readmePath = path.join(process.cwd(), '../../README.md');
+  const readmePath = path.resolve(process.cwd(), '../../README.md');
   let readme = fs.readFileSync(readmePath, 'utf-8');
   
   const startMarker = '<!-- TOP_REPOS_START -->';
