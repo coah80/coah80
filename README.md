@@ -24,16 +24,29 @@ check out some of my repositories, thanks.
 
 ---
 
-### 🔥 projects
-[**yoink**](https://github.com/coah80/yoink) → a free and open source media tools website, download, convert, compress, all in one.
+### 🔥 main projects
 
-[**coah80**](https://coah80.com) → my personal sandbox / cdn / identity hub  
+<a href="https://github.com/coah80/yoink">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=yoink&theme=radical" />
+</a>
+<a href="https://github.com/coah80/coah80.com">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=coah80.com&theme=radical" />
+</a>
+
+---
+
+### 🏆 top repos
+
+| Repository | Description | Language | Stars | Forks |
+|------------|-------------|----------|-------|-------|
+| *updates automatically every 6 hours* | | | | |
+
 
 ---
 
 ### 📊 stats
-[![Coah's GitHub stats](https://github-readme-stats.vercel.app/api?username=coah80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coah80&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Coah's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=coah80&show_icons=true&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coah80&layout=compact&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
