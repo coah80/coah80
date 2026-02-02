@@ -11,10 +11,10 @@ check out some of my repositories, thanks.
 ---
 
 ### ⚙️ rig
-**cpu:** ryzen 5600g  
+**cpu:** ryzen 9800x3d  
 **ram:** 32gb  
-**storage:** 1tb ssd  
-**gpu:** rtx 3060  
+**storage:** 2tb ssd  
+**gpu:** rtx 5070ti 
 
 ---
 
