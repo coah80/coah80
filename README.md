@@ -30,7 +30,7 @@ check out some of my repositories, thanks.
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=yoink&theme=radical" />
 </a>
 <a href="https://github.com/coah80/coah80.com">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=coah80.com&theme=radical" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=coleswebsitem&theme=radical" />
 </a>
 
 ---
