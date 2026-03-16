@@ -42,7 +42,7 @@ check out some of my repositories, thanks.
 | [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 45 | 1 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | basically a computer virus that whenever you click, you h... | Python | 14 | 2 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
-| [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition (LCEMP... | JavaScript | 2 | 0 |
+| [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition (LCEMP... | JavaScript | 3 | 0 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 0 |
 | [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 | [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
