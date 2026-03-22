@@ -44,10 +44,10 @@ check out some of my repositories, thanks.
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
 | [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition (LCEMP... | JavaScript | 3 | 0 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 1 |
+| [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
 | [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 | [**socratic-slopinar**](https://github.com/coah80/socratic-slopinar) | have a bunch of open router models talk about your prompt... | Go | 0 | 0 |
 | [**VulkUI**](https://github.com/coah80/VulkUI) | No description | C++ | 0 | 0 |
-| [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
 | [**coleswebsite**](https://github.com/coah80/coleswebsite) | yuh | HTML | 0 | 1 |
 <!-- TOP_REPOS_END -->
 
