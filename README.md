@@ -44,11 +44,11 @@ check out some of my repositories, thanks.
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | No description | C++ | 4 | 1 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
 | [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition (LCEMP... | JavaScript | 3 | 0 |
+| [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
 | [**coahgpt**](https://github.com/coah80/coahgpt) | No description | Go | 1 | 0 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 1 |
-| [**decomp-dashboard**](https://github.com/coah80/decomp-dashboard) | Live decompilation progress tracker for Minecraft LCE Swi... | HTML | 0 | 1 |
 | [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
-| [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
+| [**decomp-dashboard**](https://github.com/coah80/decomp-dashboard) | Live decompilation progress tracker for Minecraft LCE Swi... | HTML | 0 | 1 |
 <!-- TOP_REPOS_END -->
 
 ---
