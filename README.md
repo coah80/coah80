@@ -39,7 +39,7 @@ check out some of my repositories, thanks.
 <!-- TOP_REPOS_START -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 57 | 2 |
+| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 58 | 2 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | basically a computer virus that whenever you click, you h... | Python | 14 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | No description | C++ | 4 | 1 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
