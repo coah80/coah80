@@ -47,8 +47,8 @@ check out some of my repositories, thanks.
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
 | [**coahgpt**](https://github.com/coah80/coahgpt) | No description | Go | 1 | 0 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 1 |
-| [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 | [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
+| [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
