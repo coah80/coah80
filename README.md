@@ -40,15 +40,15 @@ check out some of my repositories, thanks.
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
 | [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 61 | 2 |
-| [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | basically a computer virus that whenever you click, you h... | Python | 14 | 2 |
-| [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | No description | C++ | 4 | 1 |
+| [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 14 | 2 |
+| [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 4 | 1 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
-| [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition (LCEMP... | JavaScript | 3 | 0 |
-| [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
-| [**coahgpt**](https://github.com/coah80/coahgpt) | No description | Go | 1 | 0 |
+| [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 3 | 0 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 1 |
-| [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools | Markdown | 0 | 0 |
-| [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
+| [**coahgpt**](https://github.com/coah80/coahgpt) | Self-hosted AI chat with Go backend, SvelteKit web UI, an... | Go | 1 | 0 |
+| [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
+| [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 1 | 0 |
+| [**unity-multibuild**](https://github.com/coah80/unity-multibuild) | Unity editor package for one-click multi-platform builds | C# | 0 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
