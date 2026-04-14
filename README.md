@@ -48,7 +48,7 @@ check out some of my repositories, thanks.
 | [**coahgpt**](https://github.com/coah80/coahgpt) | Self-hosted AI chat with Go backend, SvelteKit web UI, an... | Go | 1 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
 | [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 1 | 0 |
-| [**unity-multibuild**](https://github.com/coah80/unity-multibuild) | Unity editor package for one-click multi-platform builds | C# | 0 | 0 |
+| [**yoink-status**](https://github.com/coah80/yoink-status) | Status page for yoink.tools — uptime monitoring and incid... | Markdown | 0 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
