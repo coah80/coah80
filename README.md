@@ -39,7 +39,7 @@ check out some of my repositories, thanks.
 <!-- TOP_REPOS_START -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 63 | 2 |
+| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 64 | 2 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 14 | 2 |
 | [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 6 | 1 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 6 | 1 |
@@ -48,7 +48,7 @@ check out some of my repositories, thanks.
 | [**coahgpt**](https://github.com/coah80/coahgpt) | Self-hosted AI chat with Go backend, SvelteKit web UI, an... | Go | 1 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
 | [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 1 | 0 |
-| [**talkmodachi-bot**](https://github.com/coah80/talkmodachi-bot) | Discord bot fork of Talkmodachi with warm Citra TTS workers | Python | 0 | 0 |
+| [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
