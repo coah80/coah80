@@ -48,7 +48,7 @@ check out some of my repositories, thanks.
 | [**coahgpt**](https://github.com/coah80/coahgpt) | Self-hosted AI chat with Go backend, SvelteKit web UI, an... | Go | 1 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 1 | 0 |
 | [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 1 | 0 |
-| [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Discord-first Tomodachi Life TTS bot fork | Python | 0 | 0 |
+| [**coah80**](https://github.com/coah80/coah80) | me | Unknown | 0 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
