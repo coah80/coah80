@@ -39,9 +39,9 @@ check out some of my repositories, thanks.
 <!-- TOP_REPOS_START -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 70 | 3 |
+| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 70 | 4 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 14 | 2 |
-| [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 8 | 1 |
+| [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 9 | 1 |
 | [**lce-docs**](https://github.com/coah80/lce-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 6 | 1 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
 | [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 2 | 0 |
