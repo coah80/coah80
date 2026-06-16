@@ -47,7 +47,7 @@ check out some of my repositories, thanks.
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
 | [**talkmodachi-bot**](https://github.com/coah80/talkmodachi-bot) | Discord bot fork of Talkmodachi with warm Citra TTS workers | Python | 2 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 2 | 0 |
-| [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 2 | 0 |
+| [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 2 | 1 |
 | [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 0 |
 <!-- TOP_REPOS_END -->
 
