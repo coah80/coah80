@@ -48,7 +48,7 @@ check out some of my repositories, thanks.
 | [**hotbar-extensions**](https://github.com/coah80/hotbar-extensions) | No description | Java | 2 | 0 |
 | [**talkmodachi-bot**](https://github.com/coah80/talkmodachi-bot) | Discord bot fork of Talkmodachi with warm Citra TTS workers | Python | 2 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 2 | 0 |
-| [**moddybot**](https://github.com/coah80/moddybot) | moddybot is a discord bot for the repo modding discord. | TypeScript | 1 | 0 |
+| [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 1 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
