@@ -45,7 +45,7 @@ check out some of my repositories, thanks.
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 8 | 3 |
 | [**slop-docs**](https://github.com/coah80/slop-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 7 | 1 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
-| [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 2 | 0 |
+| [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 2 | 1 |
 | [**hotbar-extensions**](https://github.com/coah80/hotbar-extensions) | No description | Java | 2 | 0 |
 | [**talkmodachi-bot**](https://github.com/coah80/talkmodachi-bot) | Discord bot fork of Talkmodachi with warm Citra TTS workers | Python | 2 | 0 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 2 | 0 |
