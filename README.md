@@ -43,8 +43,8 @@ check out some of my repositories, thanks.
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 14 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 12 | 1 |
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 10 | 3 |
+| [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 7 | 1 |
 | [**slop-docs**](https://github.com/coah80/slop-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 7 | 1 |
-| [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 6 | 1 |
 | [**bsky-sync**](https://github.com/coah80/bsky-sync) | twitter/x to bluesky mirror daemon, docker ready | JavaScript | 6 | 0 |
 | [**phonkedit**](https://github.com/coah80/phonkedit) | minecraft, but a phonk edit happens for ANYTHING. | Java | 4 | 2 |
 | [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 3 | 0 |
