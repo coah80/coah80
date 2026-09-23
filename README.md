@@ -39,8 +39,8 @@ check out some of my repositories, thanks.
 <!-- TOP_REPOS_START -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 125 | 7 |
-| [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 14 | 2 |
+| [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 126 | 7 |
+| [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 15 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 12 | 1 |
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 10 | 3 |
 | [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 7 | 1 |
