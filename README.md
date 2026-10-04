@@ -1,41 +1,18 @@
 <div align="center">
 
-### Im coah, real name being cole.
-
-i took a python and a java coding class so that means **im the bestest programmer on earth.**
-
-check out some of my repositories, thanks.
+# hey! im coah.
 
 </div>
 
----
+### heres some things i like:
 
-### ⚙️ rig
-**cpu:** ryzen 9800x3d  
-**ram:** 32gb  
-**storage:** 2tb ssd  
-**gpu:** rtx 5070ti 
+- technology (pretty much anything about it)
+- coding
+- games
 
 ---
 
-### 🧠 what i actually do
-- tech repair  
-- c#, lua, css, python  
-
----
-
-### 🔥 main projects
-
-<a href="https://github.com/coah80/yoink">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=yoink&theme=radical" />
-</a>
-<a href="https://github.com/coah80/coleswebsite">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coah80&repo=coleswebsite&theme=radical" />
-</a>
-
----
-
-### 🏆 top repos
+### some of my biggest projects:
 <!-- TOP_REPOS_START -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
@@ -53,14 +30,14 @@ check out some of my repositories, thanks.
 
 ---
 
-### 📊 stats
+###  stats
 [![Coah's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=coah80&show_icons=true&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coah80&layout=compact&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
-### 🔗 socials
-🌐 [coah80.com](https://coah80.com)  
-🎬 [youtube: coah](https://youtube.com/@coah800)  
-🎮 [tiktok: @cole.vr](https://tiktok.com/@cole.vr)  
-☕ [ko-fi](https://ko-fi.com/coah80)
+###  socials
+ [coah80.com](https://coah80.com)  
+ [youtube: coah](https://youtube.com/@coah800)  
+ [tiktok: @cole.vr](https://tiktok.com/@cole.vr)  
+ [ko-fi](https://ko-fi.com/coah80)
