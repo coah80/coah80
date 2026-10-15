@@ -21,7 +21,7 @@
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 16 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 13 | 1 |
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 11 | 3 |
-| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 9 | 1 |
+| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 10 | 1 |
 | [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 7 | 1 |
 | [**slop-docs**](https://github.com/coah80/slop-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 7 | 1 |
 | [**bsky-sync**](https://github.com/coah80/bsky-sync) | twitter/x to bluesky mirror daemon, docker ready | JavaScript | 5 | 0 |
