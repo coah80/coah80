@@ -17,11 +17,11 @@
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
 | [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 145 | 8 |
-| [**framecorder**](https://github.com/coah80/framecorder) | a recorder for the steam frame that runs on the headset i... | Rust | 39 | 2 |
+| [**framecorder**](https://github.com/coah80/framecorder) | a recorder for the steam frame that runs on the headset i... | Rust | 40 | 2 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 16 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 13 | 1 |
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 11 | 3 |
-| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 7 | 1 |
+| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 8 | 1 |
 | [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 7 | 1 |
 | [**slop-docs**](https://github.com/coah80/slop-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 7 | 1 |
 | [**bsky-sync**](https://github.com/coah80/bsky-sync) | twitter/x to bluesky mirror daemon, docker ready | JavaScript | 5 | 0 |
