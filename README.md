@@ -17,7 +17,7 @@
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
 | [**yoink**](https://github.com/coah80/yoink) | A simple, open-source media downloader powered by yt-dlp | Go | 147 | 9 |
-| [**framecorder**](https://github.com/coah80/framecorder) | a recorder for the steam frame that runs on the headset i... | Rust | 42 | 2 |
+| [**framecorder**](https://github.com/coah80/framecorder) | a recorder for the steam frame that runs on the headset i... | Rust | 43 | 2 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 16 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 13 | 1 |
 | [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 12 | 1 |
