@@ -25,7 +25,7 @@
 | [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 7 | 1 |
 | [**slop-docs**](https://github.com/coah80/slop-docs) | Documentation for Minecraft Legacy Console Edition source... | JavaScript | 7 | 1 |
 | [**bsky-sync**](https://github.com/coah80/bsky-sync) | twitter/x to bluesky mirror daemon, docker ready | JavaScript | 5 | 0 |
-| [**mcp-memory**](https://github.com/coah80/mcp-memory) | Persistent memory server for AI coding tools. Works with ... | Go | 4 | 1 |
+| [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 4 | 0 |
 <!-- TOP_REPOS_END -->
 
 ---
