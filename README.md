@@ -20,7 +20,7 @@
 | [**framecorder**](https://github.com/coah80/framecorder) | a recorder for the steam frame that runs on the headset i... | Rust | 57 | 5 |
 | [**phonkedit-desktop**](https://github.com/coah80/phonkedit-desktop) | A phonk edit plays on your screen every time you click. Y... | Python | 16 | 2 |
 | [**LegacyVulkEdition**](https://github.com/coah80/LegacyVulkEdition) | Modernized Minecraft Legacy Console Edition with Vulkan r... | C++ | 15 | 1 |
-| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 13 | 1 |
+| [**frametube**](https://github.com/coah80/frametube) | youtube's tv app as a flat app for the steam frame, contr... | JavaScript | 14 | 1 |
 | [**ttsmodachi**](https://github.com/coah80/ttsmodachi) | Self-hostable Discord Tomodachi Life TTS bot using Talkmo... | Python | 12 | 3 |
 | [**questcraft-visor-releases**](https://github.com/coah80/questcraft-visor-releases) | questcraft but with visor | Unknown | 8 | 1 |
 | [**youtube-mcp**](https://github.com/coah80/youtube-mcp) | Give any AI the ability to watch YouTube videos. Dense fr... | TypeScript | 7 | 1 |
